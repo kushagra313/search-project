@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.nav {
+    text-align: right;
+    padding: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: blue;
+}
+
+.search-container {
+    margin-top: 150px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #4285f4;
+}
+
+.search-bar {
+    width: 50%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+}
+
+.buttons input {
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.buttons input:hover {
+    background-color: #e8e9eb;}
+
+
+
